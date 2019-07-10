@@ -8,15 +8,15 @@
 }
 
 .list-group-item.no-hover:hover {
-    background-color: #666;
+    background-color: #EE82EE;
 }
 
 .list-group-item:hover {
-    background-color: #666;
+    background-color: #EE82EE;
 }
 
 .list-group-item.selected {
-    background-color: #666;
+    background-color: #EE82EE;
 }
 
 a.menu-item:hover {
