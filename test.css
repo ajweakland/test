@@ -1,43 +1,4 @@
-.dropdown-menu {
-    box-shadow: none;
-    border: solid 1px #fff;
-    border-radius: 4px;
-    max-height: 300px;
-    overflow-y: scroll;
+.page-header{
     background-color: #666;
 }
 
-.list-group-item.no-hover:hover {
-    background-color: #EE82EE;
-}
-
-.list-group-item:hover {
-    background-color: #EE82EE;
-}
-
-.list-group-item.selected {
-    background-color: #EE82EE;
-}
-
-a.menu-item:hover {
-   
-}
-/* Google Font Styles */
-@font-face {
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: 800;
-    src: local('Lato Light'), local('Lato-Light'), url(/fonts/Lato-Light.ttf) format('truetype');
-}
-@font-face {
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: 100;
-    src: local('Lato Regular'), local('Lato-Regular'), url(/fonts/Lato-Regular.ttf) format('truetype');
-}
-@font-face {
-    font-family: "Lato";
-    font-style: normal;
-    font-weight: 100;
-    src: local("Lato Bold"), local("Lato-Bold"), url("/fonts/Lato-Bold.ttf") format("truetype");
-}
