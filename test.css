@@ -6,3 +6,19 @@
     overflow-y: scroll;
     background-color: #666;
 }
+
+.list-group-item.no-hover:hover {
+    background-color: #666;
+}
+
+.list-group-item:hover {
+    background-color: #666;
+}
+
+.list-group-item.selected {
+    background-color: #666;
+}
+
+a.menu-item:hover {
+   
+}
